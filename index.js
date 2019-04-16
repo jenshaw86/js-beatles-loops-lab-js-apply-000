@@ -25,6 +25,4 @@ function iLoveTheBeatles(num){
     gushes.push("I love the Beatles!");
     num++;
   } while(num < 15);
-    
-  }
 }
