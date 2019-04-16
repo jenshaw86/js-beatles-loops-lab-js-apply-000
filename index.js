@@ -20,11 +20,11 @@ function johnLennonFacts(facts){
 }
 
 function iLoveTheBeatles(num){
-  var someArr = [];
+  var gushes = [];
   do {
-    someArr.push("I love the Beatles!");
+    gushes.push("I love the Beatles!");
     num++;
-  } while(num < 15)
+  } while(num < 15);
     
   }
 }
